@@ -23,7 +23,7 @@ export const About = () => {
                         </h3>
 
                         <p className="text-muted-foreground text-justify">
-                        Halo! Saya Ibrahim, seorang yang antusias dan pencinta kreativitas. Saya percaya bahwa setiap ide memiliki potensi untuk tumbuh menjadi sesuatu yang luar biasa—asal diberi ruang dan ketekunan. Dalam keseharian, saya senang mengeksplorasi hal-hal baru, baik di dunia teknologi, desain, maupun pengalaman hidup yang sederhana. Bagi saya, proses belajar dan berbagi adalah inti dari pertumbuhan. Saya selalu terbuka untuk kolaborasi, tantangan baru, dan percakapan yang bermakna. Terima kasih telah mampir—semoga kita bisa saling menginspirasi!
+                        Halo! Saya Ibrahim, seorang yang antusias dan pencinta kreativitas. Saya percaya bahwa setiap ide memiliki potensi untuk tumbuh menjadi sesuatu yang luar biasa, asal diberi ruang dan ketekunan. Dalam keseharian, saya senang mengeksplorasi hal-hal baru, baik di dunia teknologi, desain, maupun pengalaman hidup yang sederhana. Bagi saya, proses belajar dan berbagi adalah inti dari pertumbuhan. Saya selalu terbuka untuk kolaborasi, tantangan baru, dan percakapan yang bermakna. Terima kasih telah mampir—semoga kita bisa saling menginspirasi!
                         </p>
                         <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
                         <a href="#contact" className="cosmic-button">
